@@ -1,6 +1,6 @@
-import Products from './products';
+import Products from './Products.tsx';
 
-const Home = props => (
+const Home = () => (
   <Products />
 );
 
